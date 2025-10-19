@@ -2,8 +2,6 @@
 
 A classic, simple Tic-Tac-Toe game built with plain HTML, CSS, and JavaScript. This project is a lightweight, two-player (hot-seat) game that runs entirely in the browser.
 
-![A basic Tic-Tac-Toe game board](https://i.imgur.com/g0P1iGk.png)
-
 ## ✨ Features
 
 * **Two-Player Gameplay:** Play against a friend on the same device.
@@ -22,9 +20,9 @@ A classic, simple Tic-Tac-Toe game built with plain HTML, CSS, and JavaScript. T
 
 No installation is required! Since this is a simple web project, you can run it in a few easy ways:
 
-### 1. Play Online (Using GitHub Pages)
+### 1. Play Online 
 
-You can play the game live at: `https://tic-tac-toe-jxya.onrender.com`
+Link:https://tic-tac-toe-jxya.onrender.com
 
 *(Note: This link will only work if you have enabled GitHub Pages in your repository's settings.)*
 
